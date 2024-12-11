@@ -1,0 +1,6 @@
+user_id,name,email
+1,minhaj,mdtuhan902@gmail.com
+2,tuhan,mdmi9haj@gmail.com
+3,new,paypala360@gmail.com
+4,user1,soecodae@gmail.com
+5,user2,user2@gmail.com
